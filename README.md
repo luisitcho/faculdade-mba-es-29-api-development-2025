@@ -1,13 +1,13 @@
 ## Integrantes
 
-André Luís Gnatiuc
-Edimichael das Virgens de Lima
-Luciano De Carvalho
-Luis Henrique de Souza Cruz
-Paulo Simão Barreto
-Rafael Barros de Almeida e Silva
-Vinicius Fernandes Umbelino dos Santos
-Vitor Pereira Rocha
+André Luís Gnatiuc <br>
+Edimichael das Virgens de Lima <br>
+Luciano De Carvalho <br>
+Luis Henrique de Souza Cruz <br>
+Paulo Simão Barreto <br>
+Rafael Barros de Almeida e Silva <br>
+Vinicius Fernandes Umbelino dos Santos <br>
+Vitor Pereira Rocha <br>
 
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" /></a>
