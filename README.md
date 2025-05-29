@@ -7,6 +7,7 @@ Luis Henrique de Souza Cruz <br>
 Paulo Simão Barreto <br>
 Rafael Barros de Almeida e Silva <br>
 Vinicius Fernandes Umbelino dos Santos <br>
+Vitor Fernandes Palha <br>
 Vitor Pereira Rocha <br>
 
 <p align="center">
